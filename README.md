@@ -1,4 +1,3 @@
 # hello-world
-my first repository
 Hello,
-I am writing here to do some changes this branch. So far I understand everything here :) I a mglad ;)
+I would like to tell you that so far I understand this GitHub. I am sure later soon will be more difficult to understand the thing here... Bu we will see :)
